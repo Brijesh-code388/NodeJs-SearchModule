@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@ckirby/wink-bm25-text-search": "^3.3.0",
+    "csvtojson": "^2.0.10",
+    "fs": "^0.0.1-security",
+    "wink-bm25-text-search": "^3.1.0"
+  }
+}
